@@ -23,4 +23,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<hr>
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berkalimeral&show_icons=true&theme=tokyonight) 
