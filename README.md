@@ -5,8 +5,6 @@
   <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkalimeral&label=Profile%20views&color=0e75b6&style=flat" alt="berkalimeral" /> </p>
-
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter**
