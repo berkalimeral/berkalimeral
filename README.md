@@ -2,7 +2,7 @@
 <h3 align="center">I am currently studying Computer Engineering at Karabük University</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
+  <img src="http://twinklegotmad.tumblr.com/post/37902297430/lay-low-let-go-started-following-you-hi" width="100"/>
 </div>
 
 - 🔭 I’m currently working on **Flutter**
